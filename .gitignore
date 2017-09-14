@@ -1,0 +1,6 @@
+dividenden/
+ertraege/
+taxvoucher/
+venv/
+*.pkl
+.DS_Store
