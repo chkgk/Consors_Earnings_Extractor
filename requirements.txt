@@ -3,7 +3,7 @@ beautifulsoup4==4.5.3
 chardet==2.3.0
 docx2txt==0.6
 EbookLib==0.15
-lxml==4.0.0
+lxml==4.6.2
 olefile==0.44
 Pillow==4.3.0
 pocketsphinx==0.1.3
